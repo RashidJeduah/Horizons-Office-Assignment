@@ -1,0 +1,64 @@
+.logo{
+	height: 60px;
+}
+
+.logo-row{
+	text-align:;
+}
+
+.header{
+	margin-bottom: 10px;
+}
+
+.about-us{
+	text-align: right;
+	padding-top: 20px;
+}
+
+.flags{
+	text-align: center;
+	padding-top: 25px;
+}
+
+.ghana, .nigeria, .kenya{
+	height: 16px;
+}
+
+.carousel-image{
+	height: 600px;
+}
+
+.section-3{
+	margin-top: 100px;
+}
+
+.thumbnail-section{
+	margin-top: 30px;
+	
+}
+
+.thumbnail-section img{
+	height: 200px;
+}
+
+.box{
+	text-align: center;
+	height: 500px;
+
+}
+
+.footer{
+	text-align: center;
+	background-color: #000066;
+	margin-top: 100px;
+}
+
+.column{
+	padding-top: 5px;
+	padding-bottom: 50px;
+}
+
+.t-nail{
+	height: 450px;
+	width: 100%;
+}

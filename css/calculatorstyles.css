@@ -1,0 +1,79 @@
+.header{
+	background-color: gray;
+	height: 80px;
+	text-align: right;
+	color: white;
+	font-size: 50px;
+
+}
+
+.row-one{
+	background-color: lavender;
+}
+
+.AC, .plusminus, .division, .percent{
+	border-top: ;
+	border-bottom: 1px solid gray;
+	border-right: 1px solid gray;
+	height: 80px;
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+
+.seven, .eight, .nine, .multi{
+	border-top: ;
+	border-bottom: 1px solid gray;
+	border-right: 1px solid gray;
+	background-color: lavender;
+	height: 80px;
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+
+.four, .five, .six, .minus{
+	border-top: ;
+	border-bottom: 1px solid gray;
+	border-right: 1px solid gray;
+	background-color: lavender;
+	height: 80px;
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+
+.one, .two, .three, .plus{
+	border-top:;
+	border-bottom: 1px solid gray;
+	border-right: 1px solid gray;
+	background-color: lavender;
+	height: 80px;
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+
+.zero, .dot, .equal{
+	border-top: ;
+	border-bottom: 1px solid gray;
+	border-right: 1px solid gray;
+	background-color: lavender;
+	height: 80px;
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+
+.division, .multi, .minus,.plus,.equal{
+	background-color: orange;
+	height: 80px;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	border-right: none;
+}
+
+
+
+.
